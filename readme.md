@@ -12,10 +12,12 @@ Features:
     
 6.  **Contributions:** We welcome contributions from the community. If you have logos to add or spot any updates needed, feel free to contribute by creating a pull request.
 
-<br>
+
+
+<hr>
 
 <details>
-<summary>Countries completed:</summary>
+<summary><h3>Countries completed:</h3></summary>
 <br>
 - 🇵🇹 Portugal
 </details>
