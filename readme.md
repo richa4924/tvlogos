@@ -11,5 +11,13 @@ Features:
 4.  **Easy Access:** Clone the repository or use direct download links to effortlessly incorporate TV channel logos into your project.
     
 6.  **Contributions:** We welcome contributions from the community. If you have logos to add or spot any updates needed, feel free to contribute by creating a pull request.
-        
-Whether you're working on a TV program guide, a streaming app, or just want to explore the visual identity of TV channels, this repository is here to serve your needs. Dive in and discover the world of TV channel logos at your fingertips.
+
+
+
+<hr>
+
+<details>
+<summary><h3>Countries completed:</h3></summary>
+<br>
+- 🇵🇹 Portugal
+</details>
