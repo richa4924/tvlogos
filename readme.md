@@ -1,4 +1,4 @@
-Welcome to the TV Channels Logos Archive, a comprehensive collection of high-quality logos for a wide range of television channels from around the world. Whether you're a developer building a TV-related application, a designer working on a TV guide, or just a curious TV enthusiast, this repository is your one-stop resource for TV channel logos.
+Welcome to the TV Channels Logos database, a comprehensive collection of high-quality logos for a wide range of television channels from around the world. Whether you're a developer building a TV-related application, a designer working on a TV guide, or just a curious TV enthusiast, this repository is your one-stop resource for TV channel logos.
 
 Features:
 
